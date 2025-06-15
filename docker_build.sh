@@ -1,1 +1,1 @@
-docker build -t onnx-gpu:v2 .
+docker build -t onnx-gpu:v3 .

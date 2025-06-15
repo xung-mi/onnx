@@ -4,5 +4,3 @@ numpy
 onnxsim
 tqdm
 pycuda
-nvidia-pyindex
-nvidia-tensorrt

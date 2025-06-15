@@ -1,2 +1,4 @@
 netron
 pillow
+jupyter
+ipykernel

@@ -1,1 +1,1 @@
-docker run -d --gpus all -it --rm -v $PWD:/app onnx-gpu:v2 /bin/bash
+docker run -d --gpus all -it --rm -v $PWD:/app onnx-gpu:v3 /bin/bash
