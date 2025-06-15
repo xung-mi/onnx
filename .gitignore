@@ -1,0 +1,6 @@
+_private/
+# Ignore toàn bộ tensorRt folder
+tensorRt/
+
+# Nhưng vẫn giữ lại file resnet50_demo.ipynb
+!tensorRt/resnet50_demo.ipynb

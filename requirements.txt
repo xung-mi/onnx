@@ -1,0 +1,8 @@
+onnx
+onnxruntime-gpu
+numpy
+onnxsim
+tqdm
+pycuda
+nvidia-pyindex
+nvidia-tensorrt
