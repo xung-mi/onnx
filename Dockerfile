@@ -1,3 +1,8 @@
+# nvidia-smi => cuda driver 12.2
+# nvcc --version => CUDA Toolkit (nvcc) 12.1
+# cat /etc/os-release => ubuntu version 22.04
+# uname -m => architecture : x86_64
+
 # Base image: TensorRT 10.12 + CUDA 12.4
 FROM nvcr.io/nvidia/tensorrt:24.04-py3
 
