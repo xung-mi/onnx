@@ -19,6 +19,10 @@ RUN apt-get update && apt-get install -y \
     cmake \
     ninja-build \
     && rm -rf /var/lib/apt/lists/*
+# sudo apt-get update
+# sudo apt-get install -y libgl1
+
+
 
 # Upgrade pip
 RUN python3 -m pip install --upgrade pip
